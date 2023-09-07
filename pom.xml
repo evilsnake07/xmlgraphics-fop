@@ -11,7 +11,7 @@
   <url>http://xmlgraphics.apache.org/fop/</url>
 
   <properties>
-    <ant.version>1.9.15</ant.version>
+    <ant.version>1.10.13</ant.version>
     <antrun.plugin.version>1.8</antrun.plugin.version>
     <batik.version>1.16.0-SNAPSHOT</batik.version>
     <build.helper.plugin.version>1.9.1</build.helper.plugin.version>
@@ -146,7 +146,7 @@
   <scm>
     <connection>scm:svn:https://svn.apache.org/repos/asf/xmlgraphics/fop/trunk/</connection>
     <url>scm:svn:https://svn.apache.org/repos/asf/xmlgraphics/fop/trunk/</url>
-    <developerConnection></developerConnection>
+    <developerConnection/>
   </scm>
 
   <repositories>
